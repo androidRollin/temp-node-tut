@@ -1,0 +1,18 @@
+//Server Side
+//HTTP Module
+//Every Last bit of syntax
+//HTTP Related
+//Cover it in far more detail
+//HTTP Module
+//With the help of HTTP Module 
+//Node feature in action
+//Slides
+//HTTP 
+
+
+//Information about our project
+// bootstrap
+// jquery
+// lodash
+// popper.js
+
